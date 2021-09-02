@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nceccanti
 - 👀 I’m interested in learning more and expanding my knowledge with programming.
 - 🌱 I’m currently learning computer science theory, web development and software engineering at Montana State University.
-- 💞️ I’m looking to collaborate on student project
+- 💞️ I’m looking to collaborate on student projects
 - 📫 How to reach me: nicceccanti@gmail.com
 
 <!---
